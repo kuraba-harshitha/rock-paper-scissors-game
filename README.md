@@ -1,0 +1,1 @@
+In this project, we create a rock, paper, and scissors game. The computer will also choose a random option, and the results will be displayed. You can win, lose, or tie. Scores are tracked at the bottom.
